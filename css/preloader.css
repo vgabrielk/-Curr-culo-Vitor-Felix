@@ -1,0 +1,13 @@
+#preloader 
+{
+    background: #000D19;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 9999999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -4rem;
+    overflow: hidden;
+}
