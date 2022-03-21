@@ -10,4 +10,5 @@
     align-items: center;
     margin-top: -4rem;
     overflow: hidden;
+    transform: scale(2.0);
 }
